@@ -1,3 +1,3 @@
 # install-jenkins
 install jenkins and ssl certificate
-with ansible playbook
+with ansible playbook with
